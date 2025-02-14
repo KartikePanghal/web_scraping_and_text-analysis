@@ -1,0 +1,6 @@
+playwright
+pandas
+nltk
+textstat
+openpyxl
+textblob
