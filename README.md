@@ -5,6 +5,7 @@ This project is a **Data Extraction and NLP Analysis** pipeline that:
 1. Scrapes article text from provided URLs.
 2. Performs text analysis, including sentiment analysis and readability metrics.
 3. Generates an output file in the required format.
+
 This project automates **web scraping, text analysis, and report generation**. It extracts article text from URLs, analyzes sentiment and readability, and outputs structured data.
 
 ## Features
